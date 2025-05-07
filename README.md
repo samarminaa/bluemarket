@@ -1,4 +1,4 @@
-# bluemarket
+# Bluemarket
 
 Repair, don't replace. That's the advice we're given, but it's much harder to find those capable of fixing your favorite things. When my favorite pair of jeans develops a hole, or my 4-year old speaker stops working, or my basketball constantly deflates, it's much easier to hop on Amazon and buy a new one. 
 
